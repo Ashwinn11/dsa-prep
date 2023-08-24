@@ -1,7 +1,7 @@
 public class Mathpow {
     public static void main(String[] args) {
-        double x =2;
-        int n =-2;
+        double x =1;
+        int n =10;
         System.out.println(Math.pow(x,n));
         System.out.println(myPow(x,n));
 
