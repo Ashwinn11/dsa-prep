@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54becb2c-0152-4a4b-9a6c-8804e6852a5c" name="Changes" comment="DSA">
-      <change afterPath="$PROJECT_DIR$/src/Combo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stackreverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sudoku.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RatInAMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WordBreak.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Combo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Combo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sub.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +52,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yaras/Downloads/demo&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yaras/Downloads/tracking&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -105,7 +108,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692941193148</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="DSA">
+      <option name="closed" value="true" />
+      <created>1692971581347</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692971581347</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +135,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="DSA" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Combinationsum3.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="`" language="JAVA" />
