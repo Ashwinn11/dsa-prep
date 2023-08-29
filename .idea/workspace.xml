@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54becb2c-0152-4a4b-9a6c-8804e6852a5c" name="Changes" comment="DSA">
-      <change afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RatInAMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WordBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FrogJump.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Combo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Combo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RatInAMaze.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692971581347</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="DSA">
+      <option name="closed" value="true" />
+      <created>1693149418528</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1693149418528</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
