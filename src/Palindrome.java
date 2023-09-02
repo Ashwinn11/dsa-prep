@@ -1,9 +1,9 @@
 import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class Palindrome{
     public static void main(String[] args) {
-        String value = "aabb";
+        String value = "aaaa";
         List<List<String>> list = new ArrayList<>();
         List<String> res = new ArrayList<>();
         solve(0,res,list,value);
