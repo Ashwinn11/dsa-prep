@@ -1,5 +1,5 @@
 import java.util.*;
-public class SubSet {
+public class Combination {
     public static void main(String[] args) {
         int[] arr ={1,2,3,4};
         int k =4;
@@ -9,16 +9,16 @@ public class SubSet {
         System.out.println(list);
     }
     private static void answer(int i, List<List<Integer>> list, int[] arr, int k, List<Integer> sub) {
-           if (k==0) {
-                   list.add(new ArrayList<>(sub));
-                   return;
-           }
-        for ( int j =i;j< arr.length;j++) {
-            if (j!=i && arr[j]== arr[j-1]) continue;
-            if (arr[j]> k) break;
-            sub.add(arr[j]);
-            answer(j + 1, list, arr, k - arr[j], sub);
-            sub.remove(sub.size() - 1);
+        if (i==arr.length) {
+            if (k==0) {
+                list.add(new ArrayList<>(sub));
+            }
+            return;
         }
+        sub.add(arr[i]);
+        answer(i + 1, list, arr, k - arr[i], sub);
+        sub.remove(sub.size()-1);
+        answer(i+1,list,arr,k,sub);
+
     }
 }
