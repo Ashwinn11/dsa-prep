@@ -6,6 +6,7 @@ public class PartitionSum {
         List<List<Integer>> list = new ArrayList<>();
         answer(arr.length-1,arr,target,list,new ArrayList<>());
         System.out.println(list);
+
     }
     public static void answer (int i ,int[] arr , int target , List<List<Integer>> list ,List<Integer> ans){
         if(i<0) {
@@ -18,4 +19,5 @@ public class PartitionSum {
         answer(i-1,arr,target,list,ans);
 
     }
+
 }
