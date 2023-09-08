@@ -1,8 +1,8 @@
 import java.util.*;
 public class Combination {
     public static void main(String[] args) {
-        int[] arr ={1,2,3,4};
-        int k =4;
+        int[] arr ={2,5,2,1,2};
+        int k =5;
         List<List<Integer>> list = new ArrayList<>();
         List<Integer> sub = new ArrayList<>();
         answer(0,list,arr,k,sub);

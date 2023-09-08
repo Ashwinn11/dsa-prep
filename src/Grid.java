@@ -12,7 +12,6 @@ public class Grid{
                     dp[i][j]=1;
                     continue;
                 }
-
                 int up=0;
                 int left = 0;
 

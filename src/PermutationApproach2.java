@@ -22,7 +22,6 @@ public class PermutationApproach2 {
             swap(i,j,arr);
         }
     }
-
     private static void swap(int i, int j,int[] arr) {
         int temp = arr[i];
         arr[i] = arr[j];
