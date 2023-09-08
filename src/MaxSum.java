@@ -4,7 +4,6 @@ public class MaxSum {
         int target =1;
         System.out.println(answer(arr.length-1,target,arr));
     }
-
     private static int answer(int i, int target, int[] arr) {
         if(i ==  0){
             if(target==0 && arr[0]==0)return 2;
