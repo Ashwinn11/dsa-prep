@@ -1,7 +1,7 @@
 import java.util.*;
 public class Sub {
     public static void main(String[] args) {
-        String s = "1234";
+        String s = "001";
         System.out.println(generateSubsequences(s));
     }
     public static List<String> generateSubsequences(String s) {

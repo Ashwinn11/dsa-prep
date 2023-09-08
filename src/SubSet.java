@@ -1,8 +1,8 @@
 import java.util.*;
 public class SubSet {
     public static void main(String[] args) {
-        int[] arr ={1,2,3,4};
-        int k =4;
+        int[] arr ={0,0,1};
+        int k =1;
         List<List<Integer>> list = new ArrayList<>();
         List<Integer> sub = new ArrayList<>();
         answer(0,list,arr,k,sub);

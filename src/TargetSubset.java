@@ -35,9 +35,6 @@ public class TargetSubset {
         if ( num[0]<=tar){
             dp[0][num[0]] =1;
         }
-        if ( num[0]<=tar){
-            dp[0][num[0]] =1;
-        }
         for ( int i =1;i<num.length;i++){
             for ( int k =1;k<=tar;k++){
                 int not = dp[i-1][k];
