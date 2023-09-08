@@ -7,7 +7,8 @@ public class MaxSum {
 
     private static int answer(int i, int target, int[] arr) {
         if(i ==  0){
-            if(target==0 )return 1;
+            if(target==0 && arr[0]==0)return 2;
+            if (target ==0) return 1;
             return 0;
         }
         int not = answer(i-1,target,arr);
