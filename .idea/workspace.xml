@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54becb2c-0152-4a4b-9a6c-8804e6852a5c" name="Changes" comment="DSA">
-      <change afterPath="$PROJECT_DIR$/src/MinCoins.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Combination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Grid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PermutationApproach2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PermutationApproach2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinCoins.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,7 +212,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694074798592</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="DSA">
+      <option name="closed" value="true" />
+      <created>1694159134942</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1694159134942</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
