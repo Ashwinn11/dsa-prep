@@ -24,7 +24,6 @@ public class SortColors {
               mid++;
             }
         }
-
     }
     private static void swap(int[] nums,int i , int j){
         int temp = nums[i];
